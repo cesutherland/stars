@@ -1,0 +1,20 @@
+{
+  "name": "stars",
+  "version": "1.0.0",
+  "description": "Stars n stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Sutherland <carl@humblesoftware.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cli": "^1.2.1"
+  },
+  "dependencies": {
+    "three": "^0.77.1",
+    "three-orbit-controls": "^72.0.0"
+  }
+}
